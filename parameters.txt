@@ -1,1 +1,0 @@
-{'reprate_MHz': 20, 'exposure': 20.0, 'overlap_expose_read': True, 'frames_file': 1, 'frames': 1, 'num_steps': 50, 'gate_step': 250.59999999999997, 'gate_offset': 9504.9, 'gate_width': 4, 'external': 0, 'interleaved': False}
